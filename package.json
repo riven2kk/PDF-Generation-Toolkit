@@ -1,0 +1,20 @@
+{
+  "name": "pdfgenerationtoolkit171324", 
+  "version": "1.0.0", 
+  "description": "by riven", 
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "" // репозиторий (заполним чуть позже)
+  },
+  "keywords": [ 
+    "", 
+    "",
+    ""
+  ],
+  "author": "riven", 
+  "license": "MIT"
+}
